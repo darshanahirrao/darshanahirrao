@@ -1,12 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 270" width="800" height="270" role="img" aria-label="Darshan Ahirrao">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="800" height="220" role="img" aria-label="Darshan Ahirrao">
   <style>
-    .name { font-family: Georgia, 'Times New Roman', serif; font-size: 56px; fill: #1f2328; }
-    .vibe { font-family: Georgia, 'Times New Roman', serif; font-style: italic; font-size: 23px; fill: #57606a; }
+    .name { font-family: Georgia, 'Times New Roman', serif; font-size: 54px; fill: #1f2328; }
     .roles { font-family: Helvetica, Arial, sans-serif; font-size: 12px; letter-spacing: 5px; fill: #818b98; }
-    .motto { font-family: Georgia, 'Times New Roman', serif; font-style: italic; font-size: 19px; fill: #1f2328; }
+    .motto { font-family: Georgia, 'Times New Roman', serif; font-style: italic; font-size: 19px; fill: #57606a; }
   </style>
-  <text x="400" y="92" text-anchor="middle" class="name">Darshan Ahirrao</text>
-  <text x="400" y="134" text-anchor="middle" class="vibe">god&#8217;s favorite vibe coder</text>
-  <text x="400" y="176" text-anchor="middle" class="roles">SYSTEMS ARCHITECT&#160;&#160;&#183;&#160;&#160;AI PRODUCT ENGINEER&#160;&#160;&#183;&#160;&#160;RED TEAMER</text>
-  <text x="400" y="228" text-anchor="middle" class="motto">I describe. My agents build. Products ship.</text>
+  <text x="400" y="88" text-anchor="middle" class="name">Darshan Ahirrao</text>
+  <text x="400" y="132" text-anchor="middle" class="roles">FOUNDER, GROWTHFORGEAI&#160;&#160;&#183;&#160;&#160;AI PRODUCT ENGINEER&#160;&#160;&#183;&#160;&#160;RED TEAMER</text>
+  <text x="400" y="180" text-anchor="middle" class="motto">Designing AI systems that make it to production.</text>
 </svg>

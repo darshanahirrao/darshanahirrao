@@ -2,38 +2,38 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="800" alt="Darshan Ahirrao. god's favorite vibe coder. Systems architect, AI product engineer, red teamer. I describe. My agents build. Products ship.">
+  <img src="assets/hero-light.svg" width="800" alt="Darshan Ahirrao. Founder, GrowthForgeAI. AI product engineer and red teamer. Designing AI systems that make it to production.">
 </picture>
 
 </div>
 
 <br>
 
-## The short version
+## About
 
-I run **[GrowthForgeAI](https://growthforgeai.com)**, an AI studio that ships production agents and automation for real businesses. I architect the systems, a team of AI agents writes the code, and clients get working software in days, not decks in months.
+I'm the founder of **[GrowthForgeAI](https://growthforgeai.com)**, an AI studio that designs and ships production AI agents and automation for businesses across the US and India. My work spans system architecture, AI product engineering, and adversarial testing of frontier models for leading AI labs.
 
-Top Rated on Upwork. 100% Job Success. And when I'm not building models into products, I'm red teaming them for top AI labs.
+Top Rated on Upwork with a 100% Job Success score.
 
 <br>
 
-## Currently
+## Now building
 
 **[Sutra](https://joinsutra.com)**<br>
-The AI content team for agencies. It remembers every brand, writes in their voice, and ships nothing without your approval. Content that runs itself.
+An AI content platform for agencies: per-brand memory, drafting in each client's voice, and a strict approval gate before anything ships.
 
 **[GrowthForgeAI](https://growthforgeai.com)**<br>
-My AI studio. Production agents and automation for businesses that want an edge.
+Client work through my studio: production agents, retrieval systems, and workflow automation, delivered as working software in days.
 
-**A shared brain for my agents**<br>
-Three AI agents, one persistent memory. They remember everything, coordinate with each other, and build while I direct.
+**Multi-agent infrastructure**<br>
+Persistent shared memory that lets multiple AI agents coordinate and work as one team.
 
-**Red teaming frontier models**<br>
-Finding the cracks in top AI labs' models before the wrong people do.
+**Red teaming**<br>
+Adversarial evaluation of frontier models for top AI labs.
 
 <br>
 
-## Reach me
+## Contact
 
 [darshan@growthforgeai.com](mailto:darshan@growthforgeai.com) · [LinkedIn](https://linkedin.com/in/darshan-ahirrao) · [Upwork](https://www.upwork.com/freelancers/darshanahirrao) · [Instagram](https://instagram.com/02darsh)
 
