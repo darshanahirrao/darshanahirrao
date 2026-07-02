@@ -6,11 +6,15 @@
 
 ### god's favorite vibe coder ✨
 
+**systems architect · AI product engineer · red teamer**
+
 <br>
 
 *I architect AI systems. My agents write the code.*
 
 *Vision, taste, shipping. In that order.*
+
+*And when I'm not building models into products, I'm breaking them for the labs.*
 
 <br>
 
