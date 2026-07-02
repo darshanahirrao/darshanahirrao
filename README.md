@@ -13,8 +13,7 @@ systems architect · AI product engineer · red teamer
 </div>
 
 <br>
-
----
+<br>
 
 ## The short version
 
@@ -45,8 +44,7 @@ Finding the cracks in top AI labs' models before the wrong people do.
 [darshan@growthforgeai.com](mailto:darshan@growthforgeai.com) · [LinkedIn](https://linkedin.com/in/darshan-ahirrao) · [Upwork](https://www.upwork.com/freelancers/darshanahirrao) · [Instagram](https://instagram.com/02darsh)
 
 <br>
-
----
+<br>
 
 <div align="center">
 
