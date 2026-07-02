@@ -8,18 +8,17 @@
 
 <br>
 
-I can't really code.
+I architect AI systems — and direct a team of AI agents that build them.
 
-I just describe what I want with unreasonable confidence,<br>
-and production AI systems keep showing up.
-
-English is my programming language.<br>
-The agents handle the rest.
+Vision, taste, and shipping are the job.<br>
+Code is an implementation detail.
 
 <br>
 
-**Founder @ [GrowthForgeAI](https://growthforgeai.com)** — we ship AI agents for real businesses.<br>
-Clients pay. Systems run. Nobody asks to see my leetcode.
+**Founder @ [GrowthForgeAI](https://growthforgeai.com)**<br>
+Production AI agents and automation for real businesses.
+
+While others debate frameworks, I ship.
 
 <br>
 
@@ -27,6 +26,6 @@ Clients pay. Systems run. Nobody asks to see my leetcode.
 
 <br>
 
-<sub>Pune, India · Top Rated on Upwork · 100% Job Success · yes, really</sub>
+<sub>Pune, India · Top Rated on Upwork · 100% Job Success</sub>
 
 </div>
