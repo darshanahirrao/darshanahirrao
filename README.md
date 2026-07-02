@@ -8,24 +8,37 @@
 
 <br>
 
-I architect AI systems — and direct a team of AI agents that build them.
+*I architect AI systems. My agents write the code.*
 
-Vision, taste, and shipping are the job.<br>
-Code is an implementation detail.
+*Vision, taste, shipping. In that order.*
+
+<br>
+
+### currently building
 
 <br>
 
-**Founder @ [GrowthForgeAI](https://growthforgeai.com)**<br>
-Production AI agents and automation for real businesses.
-
-While others debate frameworks, I ship.
+**[Sutra](https://joinsutra.com)**<br>
+<sub>The AI content team for agencies. It remembers every brand, writes in their voice,<br>and ships nothing without your approval. Content that runs itself.</sub>
 
 <br>
+
+**[GrowthForgeAI](https://growthforgeai.com)**<br>
+<sub>My AI studio. Production agents and automation for businesses that want an edge.<br>Working software in days, not decks in months.</sub>
+
+<br>
+
+**A shared brain for my agents**<br>
+<sub>Three AI agents, one persistent memory. They remember everything,<br>coordinate with each other, and build while I direct.</sub>
+
+<br>
+
+### elsewhere
 
 [Website](https://growthforgeai.com) · [LinkedIn](https://linkedin.com/in/darshan-ahirrao) · [Upwork](https://www.upwork.com/freelancers/darshanahirrao) · [Instagram](https://instagram.com/02darsh)
 
 <br>
 
-<sub>Pune, India · Top Rated on Upwork · 100% Job Success</sub>
+<sub>Pune, India · Top Rated on Upwork · 100% Job Success · built different, literally</sub>
 
 </div>
