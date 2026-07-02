@@ -1,18 +1,12 @@
 <div align="center">
 
-# Darshan Ahirrao
-
-**god's favorite vibe coder**
-
-systems architect · AI product engineer · red teamer
-
-<br>
-
-*I describe. My agents build. Products ship.*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="800" alt="Darshan Ahirrao. god's favorite vibe coder. Systems architect, AI product engineer, red teamer. I describe. My agents build. Products ship.">
+</picture>
 
 </div>
 
-<br>
 <br>
 
 ## The short version
