@@ -1,48 +1,36 @@
 <div align="center">
 
 <br>
+<br>
 
 # Darshan Ahirrao
 
 ### god's favorite vibe coder ✨
 
-**systems architect · AI product engineer · red teamer**
+<sub>systems architect · AI product engineer · red teamer</sub>
+
+<br>
+<br>
+
+*I describe. My agents build. Products ship.*
+
+<br>
+<br>
+
+**[Sutra](https://joinsutra.com)**&ensp;·&ensp;the AI content team for agencies
+
+**[GrowthForgeAI](https://growthforgeai.com)**&ensp;·&ensp;production AI for real businesses
+
+<br>
+<br>
+
+[LinkedIn](https://linkedin.com/in/darshan-ahirrao)&ensp;&ensp;[Upwork](https://www.upwork.com/freelancers/darshanahirrao)&ensp;&ensp;[Instagram](https://instagram.com/02darsh)
 
 <br>
 
-*I architect AI systems. My agents write the code.*
-
-*Vision, taste, shipping. In that order.*
-
-*And when I'm not building models into products, I'm breaking them for the labs.*
+<sub>Pune, India · Top Rated on Upwork</sub>
 
 <br>
-
-### currently building
-
 <br>
-
-**[Sutra](https://joinsutra.com)**<br>
-<sub>The AI content team for agencies. It remembers every brand, writes in their voice,<br>and ships nothing without your approval. Content that runs itself.</sub>
-
-<br>
-
-**[GrowthForgeAI](https://growthforgeai.com)**<br>
-<sub>My AI studio. Production agents and automation for businesses that want an edge.<br>Working software in days, not decks in months.</sub>
-
-<br>
-
-**A shared brain for my agents**<br>
-<sub>Three AI agents, one persistent memory. They remember everything,<br>coordinate with each other, and build while I direct.</sub>
-
-<br>
-
-### elsewhere
-
-[Website](https://growthforgeai.com) · [LinkedIn](https://linkedin.com/in/darshan-ahirrao) · [Upwork](https://www.upwork.com/freelancers/darshanahirrao) · [Instagram](https://instagram.com/02darsh)
-
-<br>
-
-<sub>Pune, India · Top Rated on Upwork · 100% Job Success · built different, literally</sub>
 
 </div>
