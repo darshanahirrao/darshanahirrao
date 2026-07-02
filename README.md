@@ -1,61 +1,37 @@
-# 🌌 Enter the Echo Chamber of Innovation
+<div align="center">
 
-Welcome to my digital soundscape.  
-I’m **Darshan Ahirrao** – an **AI engineer**, **LLM explorer**, and **cloud craftsman**. My work resonates at the crossroads of **machine intelligence** and **futuristic technology**. Every project I touch is a note in the symphony of innovation.
+# Darshan Ahirrao
 
----
+**AI Product Engineer · Founder @ [GrowthForgeAI](https://growthforgeai.com)**
 
-## 🎧 Frequencies I Operate On:
+I design and ship production AI systems — agents, RAG pipelines, and LLM apps that real businesses run on.
 
-- **🔍 Focus**: Building, fine-tuning, and scaling **large language models (LLMs)** to create meaningful impact.  
-- **🤝 Open to Collaboration**: Let’s harmonize on **AI-driven solutions** or futuristic tech that challenges conventions.  
-- **🌱 Active Exploration**: Delving into **Generative AI**, **Reinforcement Learning**, and **cloud-native AI deployments**.  
-- **🎯 Vision**: Simplifying complexity while crafting tools and systems that resonate with the future.  
+</div>
 
----
+<br>
 
-## 🎛️ My Toolkit: Precision-Tuned for Innovation
+### What I build
 
-> Like a modular synth, every tool in my stack adds a unique layer to the sound of my work.
+- **AI agents & orchestration** — multi-agent systems, tool use, MCP integrations, agent memory architectures
+- **RAG & LLM applications** — retrieval pipelines, chatbots, and LLM apps deployed to production
+- **Voice & automation** — voice agents and workflow automation that remove real busywork
 
-### **AI & Machine Learning**
-- `PyTorch` · `TensorFlow` · `Transformers` · `Keras`  
+### Currently
 
-### **Programming Languages**
-- `Python` · `JavaScript` · `C++`  
+- Running **[GrowthForgeAI](https://growthforgeai.com)** — an AI consulting & development studio (US · India)
+- Building shared-memory architectures so multiple AI agents can work as one team
+- Red-teaming frontier AI models
 
-### **Cloud Platforms**
-- `AWS` · `Azure` · `Google Cloud`  
+### Stack
 
-### **Data & Databases**
-- `Pandas` · `NumPy` · `MongoDB` · `SQL`  
+`Python` · `TypeScript` · `FastAPI` · `Next.js` · `LangGraph` · `LangChain` · `MCP` · `Claude Code` · `Supabase` · `Qdrant` · `Pinecone` · `n8n` · `Docker` · `AWS` · `GCP`
 
-### **DevOps & Orchestration**
-- `Docker` · `Kubernetes`
+### Reach me
 
----
+[Website](https://growthforgeai.com) · [LinkedIn](https://linkedin.com/in/darshan-ahirrao) · [Upwork](https://www.upwork.com/freelancers/darshanahirrao) · [Instagram](https://instagram.com/02darsh) · [Email](mailto:hello@growthforgeai.com)
 
-## 🌐 Connect & Collaborate
+<br>
 
-Let’s co-create something extraordinary. Find me here:  
-- **LinkedIn**: [Darshan Ahirrao](https://linkedin.com/in/darshan-ahirrao)  
-- **Instagram**: [@02darsh](https://instagram.com/02darsh)  
----
-
-## 📊 Echoes of My Work
-
-> "Data tells the story, and I amplify the signal."
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DARSHANAHIRRAO&theme=transparent&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DARSHANAHIRRAO&theme=transparent&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
----
-
-## ✨ My Philosophy: Minimalism Meets Impact
-
-> "AI isn’t just code—it’s the reverberation of human curiosity. My goal is to shape the notes of progress into harmonies that inspire the future."
-
-🎵 Let’s craft the symphony of tomorrow.  
-Reach out, connect, and let’s amplify innovation together. 🚀
+<div align="center">
+<sub>Pune, India · Top Rated on Upwork · 100% Job Success</sub>
+</div>
