@@ -1,9 +1,10 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="800" alt="Darshan Ahirrao. Founder, GrowthForgeAI. AI product engineer and red teamer. Designing AI systems that make it to production.">
-</picture>
+# Darshan Ahirrao
+
+**Founder, GrowthForgeAI · AI Product Engineer · Red Teamer**
+
+*Designing AI systems that make it to production.*
 
 </div>
 
