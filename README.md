@@ -8,6 +8,6 @@ I'm also building [SUTRA](https://joinsutra.com/), an AI content workflow with b
 
 Bullish on intelligence. Particular about the evidence.
 
-I'm taking on new freelance projects. Let's talk.
+I'm taking on new freelance projects. [Let's talk](mailto:darshan@growthforgeai.com).
 
 [X](https://x.com/Darshsight) · [LinkedIn](https://www.linkedin.com/in/darshan-ahirrao/)
